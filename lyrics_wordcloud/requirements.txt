@@ -1,7 +1,7 @@
 beautifulsoup4==4.6.0
 jieba==0.39
 requests==2.20.0
-scipy==1.0.0
+scipy==1.10.0
 wordcloud==1.4.1
 matplotlib==2.1.2
 
